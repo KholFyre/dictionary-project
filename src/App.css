@@ -1,7 +1,19 @@
 .footer {
   text-align: center;
   margin: 30px;
+  color: #f7661d;
 }
+
 .container {
   margin-top: 50px;
+}
+body {
+  background: #171717;
+}
+a {
+  color: #171717;
+}
+
+.footer a {
+  color: #f7661d;
 }
